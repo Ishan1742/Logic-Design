@@ -1,0 +1,560 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/Software/Intel-FPGA/18.0/modelsim_ase/linuxaloem
+vAdder_16Bit
+Z0 !s110 1546812051
+!i10b 1
+!s100 ;Bkd^o_=@cC3mSdfaUMV32
+I15>:1Z2Ai4X^zEJfD9ImF0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/Software/Intel-FPGA/Projects/CPU
+w1540740980
+8/Software/Intel-FPGA/Projects/CPU/Adder_16Bit.v
+F/Software/Intel-FPGA/Projects/CPU/Adder_16Bit.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1546812051.000000
+!s107 /Software/Intel-FPGA/Projects/CPU/Adder_16Bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/Adder_16Bit.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@adder_16@bit
+vAdder_4Bit
+R0
+!i10b 1
+!s100 SClMg<WimR2<^Vd;T]gN11
+I93i>`0D;^<PHS]<gAT[OT2
+R1
+R2
+w1540741009
+8/Software/Intel-FPGA/Projects/CPU/Adder_4Bit.v
+F/Software/Intel-FPGA/Projects/CPU/Adder_4Bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/Adder_4Bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/Adder_4Bit.v|
+!i113 1
+R5
+R6
+n@adder_4@bit
+vALU
+R0
+!i10b 1
+!s100 TEMonMjZ@IeUIQ8_oJPNW3
+I0Rk[Z_^XnmDaeY3GgEzHV2
+R1
+R2
+w1540712861
+8/Software/Intel-FPGA/Projects/CPU/ALU.v
+F/Software/Intel-FPGA/Projects/CPU/ALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/ALU.v|
+!i113 1
+R5
+R6
+n@a@l@u
+vAndGate
+R0
+!i10b 1
+!s100 >RQhL^^[ijUE>A_`Hcm1R2
+ID[PalzGS`D^IKWaaDcYNM2
+R1
+R2
+w1540729387
+8/Software/Intel-FPGA/Projects/CPU/AndGate.v
+F/Software/Intel-FPGA/Projects/CPU/AndGate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/AndGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/AndGate.v|
+!i113 1
+R5
+R6
+n@and@gate
+vAndGate_16
+R0
+!i10b 1
+!s100 o<KB01V5H=gO_l1NP@A:e1
+Io6<BjJh_7bU3l?h@XRGAK0
+R1
+R2
+w1540729653
+8/Software/Intel-FPGA/Projects/CPU/AndGate_16.v
+F/Software/Intel-FPGA/Projects/CPU/AndGate_16.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/AndGate_16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/AndGate_16.v|
+!i113 1
+R5
+R6
+n@and@gate_16
+vBinCell
+R0
+!i10b 1
+!s100 zGF^2M:Mb5;TWFiI[;[^12
+I0>OR;jmHSKXTDB<=dAU193
+R1
+R2
+w1540730906
+8/Software/Intel-FPGA/Projects/CPU/BinCell.v
+F/Software/Intel-FPGA/Projects/CPU/BinCell.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/BinCell.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/BinCell.v|
+!i113 1
+R5
+R6
+n@bin@cell
+vComputer
+R0
+!i10b 1
+!s100 lZOAS:UA<ad2j2bV>k5Wa2
+I2@B9EIk:RNS4T<V8^;>>O3
+R1
+R2
+w1546812000
+8/Software/Intel-FPGA/18.0/modelsim_ase/linuxaloem/Computer.v
+F/Software/Intel-FPGA/18.0/modelsim_ase/linuxaloem/Computer.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/18.0/modelsim_ase/linuxaloem/Computer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/18.0/modelsim_ase/linuxaloem/Computer.v|
+!i113 1
+R5
+R6
+n@computer
+vDecoder3to8
+R0
+!i10b 1
+!s100 ;SlVm<]T>OFa0UY^izXak0
+I9j7f<To90XI^0k6G][JAD1
+R1
+R2
+w1540729795
+8/Software/Intel-FPGA/Projects/CPU/Decoder3to8.v
+F/Software/Intel-FPGA/Projects/CPU/Decoder3to8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/Decoder3to8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/Decoder3to8.v|
+!i113 1
+R5
+R6
+n@decoder3to8
+vDecoder6to64
+R0
+!i10b 1
+!s100 9WHP43X1>_;k`3[D[FEFm2
+IbFLS]V4eko;CJJgJoVT6R0
+R1
+R2
+w1546808787
+8/Software/Intel-FPGA/Projects/CPU/Decoder6to64.v
+F/Software/Intel-FPGA/Projects/CPU/Decoder6to64.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/Decoder6to64.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/Decoder6to64.v|
+!i113 1
+R5
+R6
+n@decoder6to64
+vDecoder9to512
+R0
+!i10b 1
+!s100 >SdY7<OVWJ<`P7GGf@m:f1
+IU1W^^UiG5CHFm:6_IIK8S3
+R1
+R2
+w1546808836
+8/Software/Intel-FPGA/Projects/CPU/Decoder9to512.v
+F/Software/Intel-FPGA/Projects/CPU/Decoder9to512.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/Decoder9to512.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/Decoder9to512.v|
+!i113 1
+R5
+R6
+n@decoder9to512
+vDFlip
+R0
+!i10b 1
+!s100 SMKWz;F^dO>0BTkDhaF7I3
+IGeTzMNb7>i6:VNCX;>_eh0
+R1
+R2
+w1540729590
+8/Software/Intel-FPGA/Projects/CPU/DFlip.v
+F/Software/Intel-FPGA/Projects/CPU/DFlip.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/DFlip.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/DFlip.v|
+!i113 1
+R5
+R6
+n@d@flip
+vDlatch
+R0
+!i10b 1
+!s100 ZVI13fWmfZA6IBCU93JIG3
+IQUQ==Td;cHdj7:4=GShck0
+R1
+R2
+w1540799639
+8/Software/Intel-FPGA/Projects/CPU/DLatch.v
+F/Software/Intel-FPGA/Projects/CPU/DLatch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/DLatch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/DLatch.v|
+!i113 1
+R5
+R6
+n@dlatch
+vFullAdder
+R0
+!i10b 1
+!s100 fbHg7:iB6a0@SSIM[L@;D1
+I8bSJ;OBZehoJ=TGVBNB:M1
+R1
+R2
+w1540741061
+8/Software/Intel-FPGA/Projects/CPU/FullAdder.v
+F/Software/Intel-FPGA/Projects/CPU/FullAdder.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/FullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/FullAdder.v|
+!i113 1
+R5
+R6
+n@full@adder
+vMux2to1
+R0
+!i10b 1
+!s100 2iKj0@UoXbmb4O5]fEzc32
+I92amjMl6PI>ZX6E:ICn@;2
+R1
+R2
+w1540713036
+8/Software/Intel-FPGA/Projects/CPU/Mux2to1.v
+F/Software/Intel-FPGA/Projects/CPU/Mux2to1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/Mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/Mux2to1.v|
+!i113 1
+R5
+R6
+n@mux2to1
+vMux2to1_16
+R0
+!i10b 1
+!s100 1zmmRlE9_36<I6a9T?M4f1
+IR;W`E0]_U^f[TY^I1>10@3
+R1
+R2
+w1540712914
+8/Software/Intel-FPGA/Projects/CPU/Mux2to1_16.v
+F/Software/Intel-FPGA/Projects/CPU/Mux2to1_16.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/Mux2to1_16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/Mux2to1_16.v|
+!i113 1
+R5
+R6
+n@mux2to1_16
+vNotGate
+R0
+!i10b 1
+!s100 PazB1N2ZelED9cz0WnSnm0
+IKR3Vb1=QeBMIk;=>0Lod32
+R1
+R2
+w1540729233
+8/Software/Intel-FPGA/Projects/CPU/NotGate.v
+F/Software/Intel-FPGA/Projects/CPU/NotGate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/NotGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/NotGate.v|
+!i113 1
+R5
+R6
+n@not@gate
+vNotGate_16Bit
+R0
+!i10b 1
+!s100 __0[]l`:k<g=:m2EnmH^f0
+IW=CG]4zNG9eWfFn0=XVoG3
+R1
+R2
+w1540729200
+8/Software/Intel-FPGA/Projects/CPU/NotGate_16.v
+F/Software/Intel-FPGA/Projects/CPU/NotGate_16.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/NotGate_16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/NotGate_16.v|
+!i113 1
+R5
+R6
+n@not@gate_16@bit
+vOr8Gate
+R0
+!i10b 1
+!s100 6LIkoYoVm@fhiDNT7<2Jb3
+I?k6;ZDgL;1^@?5]jUFHJ00
+R1
+R2
+w1540729349
+8/Software/Intel-FPGA/Projects/CPU/Or8Gate.v
+F/Software/Intel-FPGA/Projects/CPU/Or8Gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/Or8Gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/Or8Gate.v|
+!i113 1
+R5
+R6
+n@or8@gate
+vOrGate
+R0
+!i10b 1
+!s100 d;Xl`9f0T:i6IQn1IDj^G1
+IZkJkd`OH<>O45L_DA0hm03
+R1
+R2
+w1540729318
+8/Software/Intel-FPGA/Projects/CPU/OrGate.v
+F/Software/Intel-FPGA/Projects/CPU/OrGate.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/OrGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/OrGate.v|
+!i113 1
+R5
+R6
+n@or@gate
+vPC
+R0
+!i10b 1
+!s100 j0]<E>KzAWPP9TWO;1G022
+I?RYe9[V7?CPI8>=:>gHQ:1
+R1
+R2
+w1546809732
+8/Software/Intel-FPGA/Projects/CPU/PC.v
+F/Software/Intel-FPGA/Projects/CPU/PC.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/PC.v|
+!i113 1
+R5
+R6
+n@p@c
+vRam512
+R0
+!i10b 1
+!s100 b301CD2_;6AliJ[[UeG]80
+IBfS8Od6db1:WkIa]7HjNM3
+R1
+R2
+w1546810580
+8/Software/Intel-FPGA/Projects/CPU/RAM_512.v
+F/Software/Intel-FPGA/Projects/CPU/RAM_512.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/RAM_512.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/RAM_512.v|
+!i113 1
+R5
+R6
+n@ram512
+vRam64
+R0
+!i10b 1
+!s100 SQB?0oe60F1TEa:8z1N=I0
+IH1ld2;`:3HbD4G:R573O52
+R1
+R2
+w1546808600
+8/Software/Intel-FPGA/Projects/CPU/RAM_64.v
+F/Software/Intel-FPGA/Projects/CPU/RAM_64.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/RAM_64.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/RAM_64.v|
+!i113 1
+R5
+R6
+n@ram64
+vRam8
+R0
+!i10b 1
+!s100 g>_^MAHl:jk@HCNz:X2d`2
+I>k[G0cXfU]YmZJB^S1[6g1
+R1
+R2
+w1546808121
+8/Software/Intel-FPGA/Projects/CPU/RAM_8.v
+F/Software/Intel-FPGA/Projects/CPU/RAM_8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/RAM_8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/RAM_8.v|
+!i113 1
+R5
+R6
+n@ram8
+vRegister_16Bit
+R0
+!i10b 1
+!s100 E[8RlN9@?8eA>@=z[9>ZN3
+IXoTWEle04m:GQ]552P@CI3
+R1
+R2
+w1540731468
+8/Software/Intel-FPGA/Projects/CPU/Register_16.v
+F/Software/Intel-FPGA/Projects/CPU/Register_16.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/Register_16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/Register_16.v|
+!i113 1
+R5
+R6
+n@register_16@bit
+vXorGate
+R0
+!i10b 1
+!s100 >dRUQ:^SXcZ2YEe0Uc>Je3
+IZ?V18l^l<>7[09doT4@Ql0
+R1
+R2
+w1540729485
+8/Software/Intel-FPGA/Projects/CPU/XorGate.v
+F/Software/Intel-FPGA/Projects/CPU/XorGate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /Software/Intel-FPGA/Projects/CPU/XorGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/Software/Intel-FPGA/Projects/CPU/XorGate.v|
+!i113 1
+R5
+R6
+n@xor@gate
